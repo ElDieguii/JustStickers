@@ -1,0 +1,739 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+        {
+      "identifier": "boomer",
+      "name": "Boomer",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },
+    {
+      "identifier": "boomer2",
+      "name": "Boomer-V2",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "dueto",
+      "name": "Duos",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "conjunto",
+      "name": "Group",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "frases-peliculas",
+      "name": "Frases Tv",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "frases-pelicula2",
+      "name": "Frases Tv - v2",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "frog",
+      "name": "Frog",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "kidos",
+      "name": "Kido´s",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        }
+  ]
+},{
+      "identifier": "dicaprio",
+      "name": "Dicaprio",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "combo_loco_v1",
+      "name": "Combo Loco 1",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "combo_loco_v3",
+      "name": "Combo Loco Recargado",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    }
+
+  ]}
