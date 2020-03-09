@@ -734,6 +734,2872 @@
           "emojis": ["😄","😀"]
         }
       ]
+    },{
+      "identifier": "oldschool-v1",
+      "name": "Memero level GOD",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random",
+      "name": "Random",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v2",
+      "name": "Random, mas random que nunca",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v3",
+      "name": "Random: la venganza de la epicidad",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v4",
+      "name": "Random: el fin de los tiempos",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v5",
+      "name": "Random: una nueva era",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v6",
+      "name": "Random VI",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v7",
+      "name": "R de random",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v8",
+      "name": "Random: eternamente",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v9",
+      "name": "Don Random",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v10",
+      "name": "Randomdom",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v11",
+      "name": "Random XI",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v12",
+      "name": "Random: mas barato por docena",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v13",
+      "name": "Random: prendete al trece",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v14",
+      "name": "Random: ahora son 14",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v15",
+      "name": "Random The XV",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v16",
+      "name": "Random: sweet 16",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v17",
+      "name": "Yo Random",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v18",
+      "name": "Soy Random",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v19",
+      "name": "Random: el comienzo sin fin",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "random_v20",
+      "name": "Random 4ever",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
+    },{
+      "identifier": "respuestas",
+      "name": "´re U talking 2 ME?",
+      "publisher": "DeltaPsi",
+      "tray_image_file": "icono.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄","😀"]
+        }
+      ]
     }
 
   ]}
